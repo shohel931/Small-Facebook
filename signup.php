@@ -13,8 +13,8 @@
     <form action="" method="post">
         <input type="text" name="fname" id="taxt" placeholder="First name" required><br>
         <input type="text" name="lname" id="taxt" placeholder="Last name (optional)" ><br>
-        <span style="text-align: left;">Date of birth: <br>
-            <select  name="" id="taxt">
+        <span style="text-align: left !important;">Date of birth: <br>
+            <select  name="" id="date">
                 <option value="1">1</option>
                 <option value="1">2</option>
                 <option value="1">3</option>
@@ -47,7 +47,41 @@
                 <option value="1">30</option>
                 <option value="1">31</option>
             </select>
+            <select  name="" id="date">
+                <option value="1">1</option>
+                <option value="1">2</option>
+                <option value="1">3</option>
+                <option value="1">4</option>
+                <option value="1">5</option>
+                <option value="1">6</option>
+                <option value="1">7</option>
+                <option value="1">8</option>
+                <option value="1">9</option>
+                <option value="1">10</option>
+                <option value="1">11</option>
+                <option value="1">12</option>
+            </select>
+            <select  name="" id="date">
+                <option value="1">2000</option>
+                <option value="1">2001</option>
+                <option value="1">2002</option>
+                <option value="1">2003</option>
+                <option value="1">2004</option>
+                <option value="1">2005</option>
+                <option value="1">2006</option>
+                <option value="1">2007</option>
+                <option value="1">2008</option>
+                <option value="1">2009</option>
+                <option value="1">2010</option>
+                <option value="1">2011</option>
+            </select>
         </span><br>
+      <span class="gander"> Gander:</span> <br>
+          <select  name="" id="gander">
+                <option value="1">Male</option>
+                <option value="1">Female</option>
+                <option value="1">Custom</option>
+            </select>
         <input type="text" name="username" id="taxt" placeholder="Username" required><br>
         <input type="password" name="password" id="taxt" placeholder="Password" required><br>
         <input type="submit" value="Log in"><br>

@@ -90,7 +90,7 @@ body {
 }
 hr {
     width: 345px;
-    margin: 20px auto;
+    margin: 20px auto ;
 }
 .already {
     font-size: 20px;
@@ -99,4 +99,14 @@ hr {
 }
 .already:hover {
     color: #0866FF;
+}
+#date {
+    width: 100px;
+    padding: 10px;
+}
+#gander {
+    width: 300px;
+}
+.gander {
+    text-align: left !important;
 }
