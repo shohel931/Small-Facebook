@@ -18,8 +18,10 @@
         <h3>Login in to network</h3>
         <input type="text" name="username" id="" placeholder="Username" required><br>
         <input type="password" name="password" id="" placeholder="Password" required><br>
-        <input type="submit" value="Login">
+        <input type="submit" value="Log in"><br>
+        <a href="#">Forgotten password?</a>
     </form>
+    
     </div>
 </div>
 
