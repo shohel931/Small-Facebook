@@ -15,11 +15,14 @@
     </div>
     <div class="sub_form">
     <form action="" method="post">
-        <input type="text" name="username" id="" placeholder="Username" required><br>
-        <input type="password" name="password" id="" placeholder="Password" required><br>
+        <input type="text" name="username" id="taxt" placeholder="Username" required><br>
+        <input type="password" name="password" id="taxt" placeholder="Password" required><br>
         <input type="submit" value="Log in"><br>
         <a href="#">Forgotten password?</a>
+        <hr>
+    <a href="#">Create new account</a>
     </form>
+    
     </div>
 </div>
 
