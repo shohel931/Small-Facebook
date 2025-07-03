@@ -18,9 +18,8 @@
         <input type="text" name="username" id="taxt" placeholder="Username" required><br>
         <input type="password" name="password" id="taxt" placeholder="Password" required><br>
         <input type="submit" value="Log in"><br>
-        <a href="#">Forgotten password?</a>
-        <hr>
-    <a href="#">Create new account</a>
+        <a href="#">Forgotten password?</a><br>
+        <a class="btn" href="#">Create new account</a>
     </form>
     
     </div>
