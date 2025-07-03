@@ -15,7 +15,7 @@
 <div class="login_form_area">
     <div class="sub_form">
     <form action="" method="post"> 
-        <h3>Login here</h3>
+        <h3>Login in to network</h3>
         <input type="text" name="username" id="" placeholder="Username" required><br>
         <input type="password" name="password" id="" placeholder="Password" required><br>
         <input type="submit" value="Login">

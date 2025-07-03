@@ -30,9 +30,10 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 400px;
-    height: 200px auto;
+    width: 600px;
+    height: 400px ;
     background-color: #fff;
+    text-align: center;
 }
 .sub_form h3 {
     font-size: 32px;
@@ -41,5 +42,10 @@ body {
 .login_form_area input[type="text"],
 .login_form_area input[type="password"] {
     padding: 12px;
+    margin:10px 0 ;
+    width: 300px;
+    border: none;
+    box-shadow: 5px 5px 10px #ccc;
+    border-radius: 10px;
 
 }
