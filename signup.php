@@ -23,7 +23,7 @@
         <input type="text" name="username" id="taxt" placeholder="Username" required><br>
         <input type="email" name="email" id="taxt" placeholder="Email" required><br>
         <input type="number" name="number" id="taxt" placeholder="Number" required><br>
-        <input type="password" name="password" id="taxt" placeholder="Password" required><br>
+        <input type="password" name="password" id="taxt" placeholder="New password" required><br>
         <input type="submit" value="Sign up"><br>
     </form><br>
         <a class="already" href="login.php">Already have an account?</a>
