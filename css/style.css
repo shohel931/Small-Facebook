@@ -45,18 +45,6 @@ body {
     transition: 0.4s;
     margin: 20px 0;
 }
-.forget:hover {
-    text-decoration: underline;
-    color: #1877F2;
-}
-#taxt {
-    padding: 14px;
-    margin:10px 0 ;
-    width: 300px;
-    border: 1px solid #ccc;
-    border-radius: 5px;
-    font-size: 16px;
-}
 .login_form_area input[type="submit"] {
     width: 330px;
     padding: 12px 20px;
@@ -73,6 +61,21 @@ body {
     background-color: #1877F2;
 }
 
+/* Button / form design */
+
+
+.forget:hover {
+    text-decoration: underline;
+    color: #1877F2;
+}
+#taxt {
+    padding: 14px;
+    margin:10px 0 ;
+    width: 300px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+}
 .btna {
     padding: 12px 35px;
     color: #fff;
@@ -101,12 +104,6 @@ hr {
     color: #0866FF;
 }
 #date {
-    width: 100px;
-    padding: 10px;
-}
-#gander {
-    width: 300px;
-}
-.gander {
-    text-align: left !important;
+    width: 150px;
+    padding: 14px;
 }
