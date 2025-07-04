@@ -27,7 +27,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 70vh;
+    height: 80vh;
 }
 .sub_form {
     justify-content: center;
@@ -56,14 +56,13 @@ body {
     border-radius: 5px;
     margin: 10px 0;
     transition: 0.5s;
+    cursor: pointer;
 }
 .login_form_area input[type="submit"]:hover {
     background-color: #1877F2;
 }
 
 /* Button / form design */
-
-
 .forget:hover {
     text-decoration: underline;
     color: #1877F2;
@@ -86,6 +85,7 @@ body {
     font-weight: 600;
     text-decoration: none ;
     font-size: 18px;
+    cursor: pointer;
 }
 .btna:hover {
     background-color: #36A420;
@@ -104,6 +104,10 @@ hr {
     color: #0866FF;
 }
 #date {
-    width: 150px;
+    width: 148px;
     padding: 14px;
+    margin:10px 0 ;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
 }

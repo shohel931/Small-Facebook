@@ -13,8 +13,9 @@
     <form action="" method="post">
         <input type="text" name="fname" id="taxt" placeholder="First name" required><br>
         <input type="text" name="lname" id="taxt" placeholder="Last name (optional)" ><br>
+        <input type="number" name="age" id="date" placeholder="Age" required>
        
-          <select  name="" id="date">
+          <select  name="gander" id="date" required>
                 <option value="1">Male</option>
                 <option value="1">Female</option>
                 <option value="1">Custom</option>
